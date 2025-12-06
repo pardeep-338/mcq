@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "category": "Ancient Indian History",
+    "question": "Which Satavahana ruler composed Gathasaptashati?",
+    "options": [
+      "Simuka",
+      "Gautamiputra Satkarni",
+      "Pulumayi",
+      "Hala"
+    ],
+    "answerIndex": 3,
+    "notes": "Gathasaptashati by Hala."
+  },
+  {
+    "id": 2,
+    "category": "Ancient Indian History",
+    "question": "In Pali texts, who is Nigantha Nataputta?",
+    "options": [
+      "Gautam Buddha",
+      "Mahavira",
+      "Parshvanatha",
+      "Vardhamana"
+    ],
+    "answerIndex": 1,
+    "notes": "Mahavira is called Nigantha Nataputta."
+  },
+  {
+    "id": 3,
+    "category": "Ancient Indian History",
+    "question": "Konark Sun Temple was built by whom?",
+    "options": [
+      "Narshimhadeva I",
+      "Anantavarman Chodaganga",
+      "Kharavela",
+      "Pallava King"
+    ],
+    "answerIndex": 0,
+    "notes": ""
+  }
+]

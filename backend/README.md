@@ -1,0 +1,1 @@
+Backend: Node + Express + MongoDB. Copy .env.example to .env and run `npm install` then `npm run dev`.
